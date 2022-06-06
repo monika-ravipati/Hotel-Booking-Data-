@@ -1,4 +1,4 @@
-# Hotel Management Data Analysis 
+# Hotel Data Analysis 
 
 1. Built a Database
 2. Analyzed and Retrieve Data with SQL
